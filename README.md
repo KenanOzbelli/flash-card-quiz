@@ -1,7 +1,7 @@
 # flash-card-quiz
-asks questions to the user and lets them answer
+An Application that quizes your programming skills with different catagories and questions.
 
-Link to The Site: 
+Link to The Site: https://morning-dusk-12730.herokuapp.com/
 
 
 ![github logo](./public/images/flashcard_quiz.png)
